@@ -1,0 +1,23 @@
+{
+	"description" : " Date: October 15 2018 ,  Number of unique domains: 68,816 , ",
+	"name" : "StevenBlack0",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1540061345.38,
+            "modificationDate" : 1540061345.38,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "1493361689.rsc.cdn77.org"
+        },
+       {
+            "action" : "deny",
+            "creationDate" : 1540061345.45,
+            "modificationDate" : 1540061345.45,
+            "notes" : " ads",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "freeentertainmentsource.com"
+        }    ]
+}
