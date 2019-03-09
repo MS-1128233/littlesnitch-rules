@@ -15939,7 +15939,7 @@
             "notes" : " Start malwaredomainlist.com",
             "owner" : "me",
             "process" : "any",
-            "remote-domains" : "undefined.it"
+            "remote-domains" : "someundefdomain"
         },
         {
             "action" : "deny",
