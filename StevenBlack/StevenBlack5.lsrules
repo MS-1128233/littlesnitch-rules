@@ -11773,5 +11773,14 @@
             "owner" : "me",
             "process" : "any",
             "remote-domains" : "www.xmovieshub.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1552135626.67,
+            "modificationDate" : 1552135626.67,
+            "notes" : " Added February 10, 2019 (Issue",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gifsauce.com"
         }    ]
 }
